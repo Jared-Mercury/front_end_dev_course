@@ -1,0 +1,28 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    background-color: aquamarine;
+    color: blue;
+}
+
+h2 {
+    background-color: blue;
+    color: bisque;
+}
+
+#p1 {
+    background-color: blueviolet;
+    color: cornflowerblue;
+}
+
+#p2 {
+    background-color: chartreuse;
+    color: mediumvioletred;
+}
+
+ol {
+    background-color: crimson;
+    color: magenta;
+}

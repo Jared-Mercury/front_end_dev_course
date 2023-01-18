@@ -1,0 +1,12 @@
+p {
+    color: blueviolet;
+}
+
+h1,
+h3 {
+    background-color: chartreuse;
+}
+
+h1+h3 {
+    color: deepskyblue;
+}

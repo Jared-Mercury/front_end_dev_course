@@ -1,0 +1,25 @@
+body {
+    background-color: #f5f5dd;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+#one {
+    background-color: rgba(0, 0, 0, 1);
+}
+
+#two {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+#three {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#four {
+    background-color: rgba(0, 0, 0, 0.25);
+}
