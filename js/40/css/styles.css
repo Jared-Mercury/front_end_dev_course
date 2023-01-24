@@ -1,0 +1,28 @@
+* {
+    background-color: darkseagreen;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input,
+label,
+button {
+    margin: 5px;
+}
+
+input {
+    background-color: midnightblue;
+    color: aliceblue
+}
+
+button {
+    background-color: midnightblue;
+    color: aliceblue;
+    text-transform: uppercase;
+    text-shadow: 1mm;
+    padding: 3px;
+    cursor: pointer;
+}
