@@ -240,7 +240,7 @@ section {
 }
 
 @media (max-width: 480px) {
-    .main-header .main-header-content {
+    .main-header .main-header-content h1 {
         font-size: 3em;
     }
     .about .about-img {
