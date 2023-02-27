@@ -1,9 +1,12 @@
 let one = "Uwielbiam JavaScript";
 let two = "Jestem świetnym programistą";
 
-function connect(a, b) {
-    let connection = a + " " + b;
-    return connection;
+function check(a, b) {
+    if (a.length > b.length) {
+        return a;
+    } else {
+        return b;
+    }
 }
 
-console.log(connect(one, two));
+console.log(check(one, two));
